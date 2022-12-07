@@ -7,3 +7,5 @@ if operant >= 1 and operant <= 4:
 	elif operant == 3: print(a * b)
 	else: print(a / b)
 else: print('ошибка ввода операции')
+	
+print('test')
